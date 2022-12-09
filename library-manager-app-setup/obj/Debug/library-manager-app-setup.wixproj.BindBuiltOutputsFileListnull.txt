@@ -1,0 +1,2 @@
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\library-manager-app-setup\bin\Debug\library_manager_app_setup.msi
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\library-manager-app-setup\bin\Debug\library_manager_app_setup.wixpdb

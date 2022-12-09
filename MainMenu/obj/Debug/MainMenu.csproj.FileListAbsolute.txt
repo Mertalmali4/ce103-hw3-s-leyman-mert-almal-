@@ -1,0 +1,6 @@
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\MainMenu\bin\Debug\MainMenu.dll
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\MainMenu\bin\Debug\MainMenu.pdb
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\MainMenu\obj\Debug\MainMenu.csproj.AssemblyReference.cache
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\MainMenu\obj\Debug\MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\MainMenu\obj\Debug\MainMenu.dll
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\MainMenu\obj\Debug\MainMenu.pdb

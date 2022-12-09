@@ -1,0 +1,17 @@
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.manifest
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.application
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\MainMenu.dll
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\MainMenu.pdb
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.TrustInfo.xml
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.manifest
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.application
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Süleyman Mert\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
